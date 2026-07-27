@@ -45,3 +45,5 @@ process.on("SIGINT", async () => {
   console.log("👋 Database Closed");
   process.exit(0);
 });
+
+
