@@ -10,3 +10,10 @@
 
 - Add User model with Mongoose schema
 - Fix MongoDB connection issues and configure database initialization
+
+# Commits on Jul 27, 2026
+- Added Authentication Router
+- Implemented Login Controller
+- Created Async Try-Catch Middleware
+- Tested Authentication APIs using Postman
+- Fixed login-related issues and controller bugs
